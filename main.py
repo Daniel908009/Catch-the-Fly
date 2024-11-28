@@ -257,11 +257,11 @@ while running:
     flies.draw(screen)
 
     # drawing the points
-    text = font.render(f'Points: {points}', True, (255, 255, 255))
+    text = font.render(f'Points: {points}', True, (255, 0, 0))
     screen.blit(text, (width/2 - text.get_width() // 2, 10))
 
     # drawing the time
-    text = font.render(f'Time: {int(time_till_end/frame_rate)}', True, (255, 255, 255))
+    text = font.render(f'Time: {int(time_till_end/frame_rate)}', True, (255, 0, 0))
     screen.blit(text, (width/2 - text.get_width() // 2, 10 + text.get_height()))
 
     # drawing the settings button in the top right corner
