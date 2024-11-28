@@ -206,7 +206,7 @@ music = True
 # main loop
 running = True
 points = 0
-time = 6
+time = 60
 time_till_end = time * frame_rate
 num_of_clicks = 0
 if music:
