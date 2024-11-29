@@ -8,7 +8,7 @@
 ## Controls
 <p>R for reseting the game</p>
 <p>Everything else is handled by clicking with the left mouse button.</p>
-
+<p>For the game to resize you need to also hit r</p>
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/c6c9c257-dabe-42ee-88bd-314c4716a195)
 ![image](https://github.com/user-attachments/assets/490c5bbc-1684-4802-812d-a820dbaa5cce)
