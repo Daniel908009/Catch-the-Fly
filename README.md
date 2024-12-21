@@ -42,8 +42,5 @@ Now open a console and enter the folowing code: pip install -r /path/to/requirem
 *Replace the /path/to/requirements.txt with the actual path. <br>
 Enjoy the game! <br>
 <h2>Using Pypi</h2>
-simply open your command prompt and enter this command: pip install Catch_the_Fly_package <br>
-and the run it using this command: pygame(your version) -m Catch_the_Fly.main <br>
-versions of python can look like this: python3.10 python3 or similar <br>
-to find your version enter this command: python --version <br>
-If any of this is confusing or I made some errors in my explenation then check this guide: https://packaging.python.org/en/latest/tutorials/installing-packages/<br>
+simply open your command prompt and enter this command: pip install Catch-the-Fly-package <br>
+and the run it using this command: Catch_the_Fly <br>
